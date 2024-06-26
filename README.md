@@ -1,1 +1,2 @@
 # Diabetic-Retinopathy-Detection
+This repository contains a machine learning project focused on detecting diabetic retinopathy (DR) from retinal images. Diabetic retinopathy is a complication of diabetes that affects the eyes and can lead to blindness if not diagnosed and treated in time. The goal of this project is to develop a robust model that can accurately classify the severity of diabetic retinopathy based on retinal images.
